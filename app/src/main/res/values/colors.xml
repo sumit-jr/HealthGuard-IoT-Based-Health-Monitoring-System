@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="shrine_pink_100">#D17262</color>
+    <color name="green">#41D6B3</color>
+    <color name="branjal">#DD4415</color>
+    <color name="eight">#E1611C</color>
+    <color name="ten">#FF0404</color>
+
+
+</resources>
+
+
